@@ -23,6 +23,6 @@ Skins are annotated in YOLO v5 PyTorch format.
 The following pre-processing was applied to each image:
 * Resize to 800x600 (Stretch)
 
-No image augmentation techniques were applied.
+No image augmentation techniques were applied
 
 
