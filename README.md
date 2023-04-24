@@ -2,7 +2,7 @@
 
 Tales Araújo Carvalho
 
-Atividade: Dataset
+Atividade: Dataset / Detecção de objetos
 
 Geral: dataset composto por skins do jogo eletrônico Counter-Strike Global Offensive, com 300 imagens distribuídas em 4 classes (75 por classe).
 
