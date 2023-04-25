@@ -2,7 +2,7 @@
 
 Tales Araújo Carvalho
 
-Atividade: Dataset / Detecção de objetos
+Atividade: Dataset / Detecção de objetos / YOLO v5 PyTorch
 
 Geral: dataset composto por skins do jogo eletrônico Counter-Strike Global Offensive, com 300 imagens distribuídas em 4 classes (75 por classe).
 
